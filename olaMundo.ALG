@@ -7,5 +7,6 @@ Inicio
    // Seção de Comandos, procedimento, funções, operadores, etc...
 
    escreval("Olá Mundo!")
+   escreval("Boa tarde Tales")
 
 Fimalgoritmo
